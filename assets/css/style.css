@@ -1,0 +1,19 @@
+.sabah{
+    background-color: rgb(14, 107, 107) !important;
+}
+
+.card {
+    width: 14% !important;
+}
+<<<<<<< HEAD
+
+.card-title{
+    text-transform: capitalize;
+=======
+main p{
+    color: grey;
+    text-transform: capitalize;
+    font-weight: bold;
+
+>>>>>>> b171420566865db0d470535bba86a47e2d174725
+}
